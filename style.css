@@ -96,7 +96,7 @@ body {
 /* 板块标题 */
 .tool-title{
     font-size: 50px;
-     letter-spacing: 70px;
+     /* letter-spacing: 70px; */
     text-align: center;
      margin-bottom: 40px ;
     
@@ -148,7 +148,7 @@ body {
     }
     .contect{
         width: 800px;
-        /* padding-left: 200px; */
+        padding-left: 40px;
         display: flex;
         justify-content: space-between;
     }
@@ -162,7 +162,7 @@ body {
         width: 200px;
         height: 40px;
         font-size: 25px;
-        letter-spacing: 20px;
+        /* letter-spacing: 20px; */
         color: white;
         background-color: #32a08f;
         font-weight: 600;
